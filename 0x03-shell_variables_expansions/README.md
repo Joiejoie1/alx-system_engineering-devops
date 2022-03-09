@@ -1,1 +1,1 @@
-My 0x03-variables readme file
+My readme for shell variables
