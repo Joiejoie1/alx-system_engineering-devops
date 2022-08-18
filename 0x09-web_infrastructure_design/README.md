@@ -44,4 +44,4 @@
 
 ====================================================================================
 # AUTHORS
-<h4> by: YourDevLebo & <a href="https://github.com/samie-ya"> samie-ya </a> </h4>
+<h4> by: Joy Gundu & Obumneme Anthony Okoye Okoye & Amarachi Ihejiako <a href="https://github.com/Joiejoie1"> Joiejoie1 </a> </h4>
