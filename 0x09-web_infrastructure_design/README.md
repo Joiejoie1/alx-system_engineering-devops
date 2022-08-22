@@ -44,4 +44,6 @@
 
 ====================================================================================
 # AUTHORS
-<h4> by: Joy Gundu & Obumneme Anthony Okoye Okoye & Amarachi Ihejiako <a href="https://github.com/Joiejoie1"> Joiejoie1 </a> </h4>
+<h4> by: Joy Gundu  <a href="https://github.com/Joiejoie1"> Joiejoie1 </a>
+Obumneme Anthony Okoye Okoye  <a href="https://github.com/Obumbillions"> Obumbillions </a> 
+Amarachi Ihejiako <a href="https://github.com/Cozyamy"> Cozyamy </a> </h4>
